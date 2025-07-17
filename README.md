@@ -1,4 +1,4 @@
-# AnakCantikGanteng-JURNAL EKONOMI & MANAJEMEN UNINUS
+# AnakGanteng-JURNAL EKONOMI & MANAJEMEN UNINUS
 Selamat datang di repositori **AnakGanteng JURNAL EKONOMI & MANAJEMEN**. Jurnal ini didedikasikan untuk percobaan publikasi anak cantik dan ganteng yang melakukan penelitian dan studi kasus inovatif di bidang ekonomi dan manajemen.
 
 Segala hal yang ada disini bersifat tidak valid sebagai pembelajaran dan praktek publikasi. 
@@ -11,8 +11,8 @@ AnakGanteng JURNAL EKONOMI & MANAJEMEN bertujuan untuk menjadi platform bagi par
 
 ### PERAN EXPERIENCE QUALITY DAN ACTUATING DALAM MEMBANGUN LOYALITAS PELANGGAN: STUDI PADA KOFFIE AROMA BANDUNG
 
-**Penulis:** Bagas Putra Patria, Hidayatur Rohmah Imanul Haq
-**DOI:** 
+**Penulis:** **Bagas Putra Patria & Hidayatur Rohmah Imanul Haq**
+
 **Tanggal Publikasi:** Juli 2025
 **Volume:** 1
 **Nomor:** 1
@@ -57,6 +57,7 @@ Selain itu, dilakukan observasi partisipatif langsung di lokasi toko untuk menan
 **Teknik Analisis Data:**
 Teknik analisis data dalam penelitian ini menggunakan pendekatan analisis tematik kualitatif yang dilakukan secara induktif. Proses analisis dilakukan melalui tiga tahapan utama, yaitu reduksi data, penyajian data, dan penarikan kesimpulan/verifikasi (Miles, Huberman, & Saldaña, 2014). Data hasil wawancara ditranskrip, dikategorikan berdasarkan tema utama seperti persepsi kualitas pelayanan, nilai pengalaman pelanggan, dan loyalitas, kemudian dikaitkan dengan teori actuating dalam POAC serta konsep experience quality dalam pemasaran jasa.
 Untuk memperkuat keabsahan hasil analisis, dilakukan triangulasi antar sumber (pemilik, pelanggan lama, pelanggan baru) dan triangulasi teknik (wawancara, observasi, dokumentasi). Hasil temuan kemudian diinterpretasikan dengan mengaitkannya pada teori-teori yang dibahas dalam tinjauan pustaka dan penelitian sebelumnya, serta dikembangkan dalam kerangka analisis SWOT dan TOWS untuk menghasilkan pemahaman strategis terhadap praktik pemasaran jasa yang dijalankan oleh Koffie Aroma.
+
 ---
 **Hasil & Pembahasan**
 **1. Service Quality (Kualitas Layanan)**
