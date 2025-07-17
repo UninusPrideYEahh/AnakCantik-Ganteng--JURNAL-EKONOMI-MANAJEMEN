@@ -1,0 +1,180 @@
+/* Global Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+/* Header */
+header {
+    background: #2C3E50;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    margin: 5px 0 0;
+    font-size: 1.2em;
+}
+
+/* Navbar */
+nav {
+    background: #34495E;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Main Content */
+main {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+
+#artikel-terbaru {
+    flex: 70%;
+    padding-right: 20px;
+}
+
+#sidebar {
+    flex: 30%;
+    background: #ecf0f1;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.artikel-preview {
+    background: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.artikel-preview h3 {
+    margin-top: 0;
+}
+
+.artikel-preview h3 a {
+    color: #2C3E50;
+    text-decoration: none;
+}
+
+.artikel-preview h3 a:hover {
+    color: #E74C3C;
+}
+
+.meta {
+    color: #7f8c8d;
+    font-size: 0.9em;
+}
+
+.btn-baca {
+    display: inline-block;
+    background: #3498db;
+    color: #fff;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.btn-baca:hover {
+    background: #2980b9;
+}
+
+/* Artikel Lengkap */
+.artikel-lengkap {
+    background: #fff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    width: 100%;
+}
+
+.artikel-lengkap h2 {
+    margin-top: 0;
+    color: #2C3E50;
+}
+
+.artikel-lengkap h3 {
+    color: #E74C3C;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+.btn-kembali {
+    display: inline-block;
+    background: #34495E;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.btn-kembali:hover {
+    background: #2C3E50;
+}
+
+/* Footer */
+footer {
+    background: #2C3E50;
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 20px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    main {
+        flex-direction: column;
+    }
+
+    #artikel-terbaru, #sidebar {
+        flex: 100%;
+        padding-right: 0;
+    }
+
+    #sidebar {
+        margin-top: 20px;
+    }
+}
